@@ -1,5 +1,5 @@
 {
-  "name": "spm-sea",
+  "name": "nd-sea",
   "version": "1.0.1",
   "description": "SPM project bundler in seajs.",
   "main": "lib/index",
@@ -50,10 +50,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/spmjs/spm-sea"
+    "url": "https://github.com/crossjs/nd-sea"
   },
-  "homepage": "https://github.com/spmjs/spm-sea",
-  "author": "chencheng <sorrycc@gmail.com>",
+  "homepage": "https://github.com/crossjs/nd-sea",
+  "author": "crossjs <liwenfu@crossjs.com>",
   "license": "MIT",
   "scripts": {
     "test": "make test"
